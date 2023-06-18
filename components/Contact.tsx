@@ -11,7 +11,7 @@ const Contact = () => {
     </p>
     <h2 className='font-titleFont text-5xl font-semibold'>Get in Touch</h2>
     <p className='max-w-[600px] text-center text-textDark'>
-        I'm currently looking for oppurtunities so my Inbox is always open.
+        I am currently looking for oppurtunities so my Inbox is always open.
         Would love to connect.
     </p>
     <a href="mailto:akshatmishra317@gmail.com">
