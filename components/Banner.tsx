@@ -28,7 +28,7 @@ const Banner = () => {
         className="text-base md:max-w-[650px] text-textDark font-medium">
             I love building for the web and have a passion for problem solving.
             You may find me watching football, listening to The Beatles or just sleeping if you 
-            don't find me coding. Though, I play sometimes too XD. Anyone wanting to have a sip
+            dont find me coding. Though, I play sometimes too XD. Anyone wanting to have a sip
             of coffee? Contact Me {":)"}
             
             {" "}  
