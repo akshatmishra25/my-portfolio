@@ -3,8 +3,8 @@ import SectionTitle from './SectionTitle'
 
 const Certifications = () => {
   return (
-    <section id='skills' 
-    className=' mx-auto ml-10 py-10 lgl:py-24 px-4'>
+    <section id='certifications' 
+    className='mx-auto ml-10 py-10 lgl:py-24 px-4'>
     <SectionTitle title="My Certifications"/>
     <div className='w-full mt-10 flex flex-col md:flex-row gap-16'>
        <ul className='md:w-32 flex flex-col'>

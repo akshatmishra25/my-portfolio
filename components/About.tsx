@@ -10,7 +10,7 @@ const About = () => {
         <div className='w-full lgl:w-2/3 text-base text-textDark font-medium
         flex flex-col gap-4'>
           <p> Hello I am Akshat Mishra. I am a CSE Undergrad student currently in
-            my second year. I have been doing development on the web for an year 
+            my final year. I have been doing development on the web for an year 
             now, but I keep on learning new things everyday.
           </p>
           <p>
@@ -19,7 +19,7 @@ const About = () => {
           <ul className="max-w-[450px] text-sm font-titleFont grid grid-cols-2 gap-2 mt-6">
             <li className="flex items-center gap-2">
               <span className="text-textGreen"><AiFillThunderbolt />
-              </span>JavaScript</li>
+              </span>JavaScript(ES6+)</li>
               <li className="flex items-center gap-2">
               <span className="text-textGreen"><AiFillThunderbolt />
               </span>HTML</li>
@@ -35,6 +35,24 @@ const About = () => {
               <li className="flex items-center gap-2">
               <span className="text-textGreen"><AiFillThunderbolt />
               </span>PostGres</li>
+              <li className="flex items-center gap-2">
+              <span className="text-textGreen"><AiFillThunderbolt />
+              </span>MongoDB</li>
+              <li className="flex items-center gap-2">
+              <span className="text-textGreen"><AiFillThunderbolt />
+              </span>Typescript</li>
+              <li className="flex items-center gap-2">
+              <span className="text-textGreen"><AiFillThunderbolt />
+              </span>NodeJS</li>
+              <li className="flex items-center gap-2">
+              <span className="text-textGreen"><AiFillThunderbolt />
+              </span>ExpressJS</li>
+              <li className="flex items-center gap-2">
+              <span className="text-textGreen"><AiFillThunderbolt />
+              </span>Docker</li>
+              <li className="flex items-center gap-2">
+              <span className="text-textGreen"><AiFillThunderbolt />
+              </span>Figma</li>
             
           </ul>
         </div>
