@@ -78,9 +78,9 @@ const Projects = () => {
         <div className='w-full flex flex-col items-center justify-center gap-28 mt-10'>
             <div className='flex flex-col xl:flex-row gap-6'>
                 <a className='w-full xl:w-1/2 h-auto relative group'
-                href="https://cinepick-7fee1.web.app/" target='_blank'>
+                href="https://detchan.onrender.com/" target='_blank'>
                 <div>
-                <Image className='w-full h-full object-contain' src={CinePick} alt="CinePick" />
+                <Image className='w-full h-full object-contain' src={CinePick} alt="DetChan" />
                 </div>
                 </a>
                 <div className='w-full xl:w-1/2 flex flex-col gap-6 lgl:justify-between
@@ -88,14 +88,15 @@ const Projects = () => {
                <p className='font-titleFont text-textGreen text-sm tracking-wide'>
                 Personal Project
                </p>
-               <h3 className='text-2xl font-bold'>CinePick</h3>
+               <h3 className='text-2xl font-bold'>DetChan</h3>
                <p className='bg-[#112240] text-sm md:text-base p-2 md:p-6 rounded-md'>
-                A Movie Search App built using <strong>React</strong> and deployed on <strong>Firebase</strong></p>
+                A full stack chat application built using <strong>MERN stack</strong> along with <strong>Socket.io</strong></p>
                 <ul className='text-xs md:text-sm font-titleFont tracking-wide flex gap-2 
                 md:gap-5 justify-between text-textDark'>
-                    <li>JavaScript</li>
+                    <li>MongoDB</li>
+                    <li>Express</li>
                     <li>React</li>
-                    <li>Firebase</li>
+                    <li>Socket.io</li>
                 </ul>
             </div>
 

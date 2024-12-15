@@ -1,5 +1,6 @@
 import SectionTitle from "./SectionTitle"
 import Blockstash from "./works/Blockstash"
+import Graviti from "./works/Graviti"
 
 const Experience = () => {
   return (
@@ -13,6 +14,13 @@ const Experience = () => {
                 </li>
             </ul>
             <Blockstash />
+            <ul>
+                <li className="border-l-2 border-l-hoverColor text-textDark bg-transparent hover:bg-[#112240] py-3 text-sm
+                cursor-pointer duration-300 px-8 font-medium">
+                    Graviti
+                </li>
+            </ul>
+            <Graviti />
         </div>
     </section>
   )
